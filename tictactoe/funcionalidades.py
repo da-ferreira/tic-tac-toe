@@ -59,29 +59,4 @@ def verificador_de_vitoria(jogo, simbolo_jogador):
         return True
 
     return False  # caso ninguém tenha vencido ainda
-
-
-if __name__ == "__main__":
-    jog = simbolo('xis')
-
-    a = [
-        [2, 1, 1],
-        [0, 1, 0],
-        [1, 0, 2] 
-    ]
-
-
-    '''while True:
-        for i in jogo:
-            print(''.join(i))
-
-        x = int(input('Local: '))
-
-        jogada(x, jog)
-
-        os.system('cls')'''
-    
-    print(verificador_de_vitoria(a, jog))
-    
-        
-    
+      
