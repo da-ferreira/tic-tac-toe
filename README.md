@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic tac toe on python
+## :trophy: **TIC TAC TOE** :video_game:
+
