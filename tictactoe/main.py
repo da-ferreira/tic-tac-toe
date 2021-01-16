@@ -175,3 +175,4 @@ while True:
 
 os.system('cls')
 print('OBRIGADO POR JOGAR, VOLTE SEMPRE :))')
+     
